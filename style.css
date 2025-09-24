@@ -3,4 +3,15 @@ body {
     width: 600px;
     margin: 40px;
     color: black;
+    border: 0ch;
+background-color: bisque;
+background-image: image();
+body {
+  background-image: url("images/Wole-Soyinka-silhouette.png");
+  background-size: cover;   /* stretches image to cover the screen */
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+    
 }
