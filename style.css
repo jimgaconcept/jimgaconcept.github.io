@@ -4,22 +4,13 @@ body {
     margin: 40px;
     color: black;
     border: 0ch;
-background-color: bisque;
+background-color: rgb(250, 237, 220);
 .hero {
   /* path is from css/style.css to images/Wole-Soyinka-silhouette.png*/
   background: url('../images/Wole-Soyinka-silhouette.png') center/cover no-repeat;
   min-height: 50vh;       /* ensure it has size */
 }
-.hero {
-  background: url('../images/Wole-Soyinka-silhouette.png') center/cover no-repeat;
-  min-height: 60vh; /* make sure section has size */
-}
 
-
-  background-image: url("images/Wole-Soyinka-silhouette.png");
-  background-size: cover;   /* stretches image to cover the screen */
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
     
