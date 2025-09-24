@@ -3,14 +3,9 @@ body {
     width: 600px;
     margin: 40px;
     color: black;
-    border: 0ch;
+    
 background-color: rgb(250, 237, 220);
-.hero {
-  /* path is from css/style.css to images/Wole-Soyinka-silhouette.png*/
-  background: url('../images/Wole-Soyinka-silhouette.png') center/cover no-repeat;
-  min-height: 50vh;       /* ensure it has size */
 }
 
-}
 
     
