@@ -1,15 +1,17 @@
 body {
-    font-family: "IM Fell English", serif;
-    width: 600px;
-    margin: 40px auto;
-    background-image: url(Images/moroccan-flower.png);
+  
 
+    font-family: "Felipa", serif;
+    width: 600px;
+    margin: 40 px auto;
+    background-image: url(image/Wole-Soyinka-silhouette.png);
     color: black;
     
 background-color: rgb(255, 255, 255);
 }
 
 blockquote {
+    
     font-size:2em;
     line-height:2em;
 }   
@@ -30,3 +32,13 @@ blockquote {
     figure {
         max-height: 90vh;
     }
+
+    .poem-body {
+  display: block;
+  max-width: 600px;
+  margin: 20px auto;
+  text-align: center
+  font-size: 18px;
+  color: #333;  
+  line-height: 1.6;
+}
